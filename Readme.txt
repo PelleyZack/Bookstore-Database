@@ -1,6 +1,5 @@
 Book-Database-
 bookstore database using mysql and php
-https://docs.google.com/document/d/1DsPsAKSdXpqCkZuyXfyX07-8hSt7Cjb3zIgd9hXAbjc/edit
 
 This is a two semester long database project where we as a group of three were modeling and implementing a bookstore database.
 We used basic html, php, and mysql
